@@ -1,0 +1,26 @@
+.LogoLol{
+    width: 150px;
+}
+.topo{
+    display: flex;
+    align-items: center;
+}
+header{
+    background: rgb(0, 0, 0);
+}
+.opcoes{
+    margin-left: auto;
+}
+.opcoes ul{
+    list-style: none;
+    margin-bottom: 5px;
+}
+.opcoes ul li{
+    display: inline;
+    padding: 15px;
+}
+.opcoes ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 1.1em;
+}
