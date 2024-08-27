@@ -7,6 +7,9 @@
 }
 header{
     background: rgb(0, 0, 0);
+    position: sticky;
+    top: 0px;
+    width: 100%;
 }
 .opcoes{
     margin-left: auto;
@@ -24,3 +27,4 @@ header{
     text-decoration: none;
     font-size: 1.1em;
 }
+
